@@ -14,3 +14,17 @@ a {
 * {
   box-sizing: border-box;
 }
+.input {
+  border-radius: 5px;
+  padding: 10px;
+  border: 1px solid silver;
+  width: 100%;
+  font-family: arial;
+}
+.label {
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 0.9rem;
+  margin-bottom: 0.3rem;
+  display: inline-block;
+}
